@@ -1,10 +1,12 @@
 ===== Installing MATLAB =====
+=============================
 
 If you're an NYU student and you have a personal laptop, follow the instructions below to install MATLAB on your laptop. This will give you a "network license" which means you can only use MATLAB while you are on the NYU network (e.g. "nyu" wifi), or by using the NYU VPN to access the NYU network while off-campus (VPN instructions at www.nyu.edu/its/nyunet/offcampus/vpn/). Students unfortunately do not qualify for a standalone license.
 
 If you're not an NYU student, follow your home department's instructions for MATLAB. If your home department does not provide MATLAB, talk to us.
 
 ==== New install (CNS and Psych) ====
+=============================
 
 To install a fresh copy of MATLAB, the easiest way is to physically go to a departmental machine, and use a USB stick to copy the files. You can also ask your classmates who have already downloaded the files to lend you their USB stick.
 
@@ -13,6 +15,7 @@ If you would like to try downloading the MATLAB files from outside CNS, you can 
 The information in this section can be found at http://www.cns.nyu.edu/unixadmin/#september7-2012
   
 == Mac, Unix, Linux ==
+=============================
 
   * On a departmental unix machine, find the most recent version of MATLAB.
     * For the mac version, you can look in Finder for the Network Applications folder or go to /share/Applications/
@@ -25,10 +28,12 @@ The information in this section can be found at http://www.cns.nyu.edu/unixadmin
   * Leave the app on your USB stick and bring it to the installation help session if you want to help your classmates!
 
 == Windows ==
+=============================
 
 On windows, you cannot just copy the app; instead, you need to copy the installer and then run the installer. See the install instructions at http://www.cns.nyu.edu/unixadmin/standalone-mat/2INSTALL-WIN. Using your USB device, copy the install media from /share/Public/Distros/Windows along with the network.lic file.
 
 ==== Existing install, new license (CNS and Psych) ====
+=============================
 
 If you already have MATLAB installed on your computer, but you were using a previous institution's license, you will need a new license.
 
@@ -49,6 +54,7 @@ Try looking in these places for your licenses folder, where you should put the f
   * /Users/<username>/.matlab/R2012b_licenses (Mountain Lion OS 10.8)
 
 ==== Other NYU students ====
+=============================
 
 Students from the NYU Medical School should be able to get licenses from the Medical School. Unfortunately the mathtools instructors do not have NYUMC accounts so we cannot verify the following methods.
 
@@ -58,6 +64,7 @@ http://nyumc.net.ezproxy.med.nyu.edu/nyu/mcit/services/software/keyserver.jsp
 Other NYU departments also provide site licenses. If you are unable to install MATLAB from your department, please talk to the TAs.
 
 ===== Other ways of accessing MATLAB =====
+=============================
 
 On-campus, you can use MATLAB on one of the departmental machines in CNS and Psychology.
 
@@ -66,10 +73,12 @@ From a browser, you can use MATLAB by accessing NYU's "virtual computer lab". Yo
 These are useful options if at any point you don't have a laptop you can use (you don't own a laptop, or yours is broken).
 
 ===== Installation help sessions =====
+=============================
 
 We ask all students to have MATLAB installed before the first Friday lab. If you are having difficulty getting MATLAB installed on your own, the TA's will hold a help session to get you started installing MATLAB. Please bring a USB stick to the installation session if you own one.
 
 ===== Departmental help desk =====
+=============================
 
 The TA's are available as your first point of help, but if you're really stuck you can try contacting your department's help desk:
   * CNS shop: http://www.cns.nyu.edu/info/
