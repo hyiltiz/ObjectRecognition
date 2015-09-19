@@ -25,6 +25,9 @@ This is a public webpage, so only public information such as tutorials will be p
 
         # Then change the permission
         chmod 666 /usr/local/Mathworkѕ/MATLAB/R2015a/bin/pathdef.m
+
+        # staying as root is dangerous and highly not recommended
+        exit
 ```
 
 
