@@ -13,8 +13,7 @@ This is a public webpage, so only public information such as tutorials will be p
    - MATLAB is normally installed in the application folder which is good except that by default it's write only which prevents the user from saving the [path](http://www.mathworks.com/help/matlab/matlab_env/what-is-the-matlab-search-path.html), eg to include Psychtoolbox. This is flagged by a warning when you run `downloadpsychtoolbox`. An easy and straighforward solution is to set the correct permission for the pathdef file. To do so:
      - OS X: Using finder, `Cntrl click` open-package the MATLAB app to get inside the package. Then get info to allow everyone to read and write the pathdef file. You can also follow the method below for GNU/Linux systems if you are comfortable with using Terminal in OS X.
      - GNU/Linux: fire up your terminal, and become root then change file permission:
-
-```bash
+      ```bash
         su root # become root 
         # sudo -sH  # this also works on some systems
         # insert your password; note: it is invisible
@@ -28,7 +27,7 @@ This is a public webpage, so only public information such as tutorials will be p
 
         # staying as root is dangerous and highly not recommended
         exit
-```
+      ```
 
 
 ### Installing Psychtoolbox:
