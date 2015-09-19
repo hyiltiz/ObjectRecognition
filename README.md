@@ -38,6 +38,7 @@ There are several issues that arise in installing psychtoolbox. The first is whe
    - http://psychtoolbox.org/download/
    - *NOTE*: please follow the instructions in the website above as well as the output of the installer carefully; it is not all automatic. It requires to do certain things before it is all set up. For example, you may need to install additional software such as `svn` which if shipped with Apple's XCode development tools and `Gstreamer` depending on your Operating System; you may also need to restart MATLAB; you may need to create and add new user/group `psychtoolbox` in your system. The documentation is excellent in providing all those details, so you can simply follow their instructions.
    - try running `GratingDemo` to confirm that Psychtoolbox is installed.
-   - try running `Speak('I love science!');` to confirm that basic sound features can work.
+   - try running `BasicSoundOutputDemo` to confirm that sound works. If you see problems, see `help PsychPortAudio`.
+   - try running `Speak('I love science!');` to confirm that speech synthesis features can work.
 
 Please simply write me an email if you experience any difficulties.
