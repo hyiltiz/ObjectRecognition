@@ -6,6 +6,7 @@ This is a public webpage, so only public information such as tutorials will be p
 
   Here is how you install MATLAB as a NYU student with NYU license:
    - https://github.com/hyiltiz/ObjectRecognition/blob/master/InstallingMatlab.md
+   - note that in OS X, you need to Ctrl Click the first time you open Matlab.
 
 
 1. Installing Psychtoolbox:
