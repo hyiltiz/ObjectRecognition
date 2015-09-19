@@ -15,7 +15,8 @@ This is a public webpage, so only public information such as tutorials will be p
      - GNU/Linux: fire up your terminal, and become root then change file permission:
 
 ```bash
-        #su root # become root 
+        su root # become root 
+        # sudo -sH  # this also works on some systems
         # insert your password; note: it is invisible
 
         # use ls command to find out where MATLAB is installed
