@@ -41,4 +41,4 @@ There are several issues that arise in installing psychtoolbox. The first is whe
    - try running `BasicSoundOutputDemo` to confirm that sound works. If you see problems, see `help PsychPortAudio`.
    - try running `Speak('I love science!');` to confirm that speech synthesis features can work.
 
-Please simply write me an email if you experience any difficulties.
+Please [submit a new issue](https://github.com/hyiltiz/ObjectRecognition/issues) if you experience any difficulties.
