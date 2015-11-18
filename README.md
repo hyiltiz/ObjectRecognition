@@ -1,11 +1,12 @@
-This is the Github repository for Object Recognition Project at Denis Pelli's Lab.
+Welcome to the Github public repository for the Object Recognition Project at Pelli Lab
 
-This is a public webpage, so only public information such as tutorials will be put here. This simply servers as a webpage to read stuff; you do not have to be familiar with Github (well, at least, for the time being)
+This is a public webpage, so only public information such as tutorials will be put here. This simply servers as a webpage to read stuff; you do not have to be familiar with Github (or `git`) to interact with this site.
 
 ### Installing MATLAB:
 
   1. Here is how you install MATLAB as a NYU student and activate with NYU license:
    - https://github.com/hyiltiz/ObjectRecognition/blob/master/InstallingMatlab.md
+   > If you are not NYU student, then you will have to find out from your institution how to get a MATLAB license; you can also purchace a MATLAB license. Althernatively, you can use [GNU Octave](https://www.gnu.org/software/octave/), which is a Free Software (free as in free speech; some would go with Open Source) alternative to the proprietory MATLAB package.
   1. After finishing installation, several tweaks/configurations are necessary:
    - *OS X specific*: The first time you open MATLAB, OS X gives a fatal error saying the developer is not registered.  Instead you should cntrl click the MATLAB app and select open. Then the same error message comes up but with an option to open anyway. If you succeed once then the finder remembers that it's ok. 
 
